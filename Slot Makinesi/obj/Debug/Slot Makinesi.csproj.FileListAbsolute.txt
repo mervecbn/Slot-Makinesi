@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\Slot Makinesi\Slot Makinesi\bin\Debug\Slot Makinesi.exe.config
+C:\Users\ASUS\source\repos\Slot Makinesi\Slot Makinesi\bin\Debug\Slot Makinesi.exe
+C:\Users\ASUS\source\repos\Slot Makinesi\Slot Makinesi\bin\Debug\Slot Makinesi.pdb
+C:\Users\ASUS\source\repos\Slot Makinesi\Slot Makinesi\obj\Debug\Slot Makinesi.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Slot Makinesi\Slot Makinesi\obj\Debug\Slot_Makinesi.Form1.resources
+C:\Users\ASUS\source\repos\Slot Makinesi\Slot Makinesi\obj\Debug\Slot_Makinesi.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Slot Makinesi\Slot Makinesi\obj\Debug\Slot Makinesi.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Slot Makinesi\Slot Makinesi\obj\Debug\Slot Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Slot Makinesi\Slot Makinesi\obj\Debug\Slot Makinesi.exe
+C:\Users\ASUS\source\repos\Slot Makinesi\Slot Makinesi\obj\Debug\Slot Makinesi.pdb
